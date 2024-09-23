@@ -1,0 +1,30 @@
+body{
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-image: url("https://i.ytimg.com/vi/c-6WopqTCF8/maxresdefault.jpg");
+   margin: 0;
+   padding: 0;
+}
+.class-title-header h1{
+ background-color: rgba(0, 0, 0, 0.192);
+ padding: 0;
+}
+.footer-class{
+   background-color: rgb(8, 12, 71);
+   width: 100vw;
+   height: 150px;
+}
+.carousel-control-next-icon{
+   color: black;
+}
+*{
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+
+}
+.box-carousel{
+   width: 100vw;
+   height: 100vw;
+   box-sizing: border-box;
+}
